@@ -197,21 +197,21 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-   bash
+   ```bash
    git clone https://github.com/shrey3456/mern-chat-app.git
 
 2. Navigate to the project directory:
-    bash
+    ```bash
    cd mern-chat-app
    cd frontend
    cd backend
 
 3. Install dependencies:
-    bash
+    ```bash
     npm i
 
 4. Start the Frontend:
-    bash
+    ```bash
     npm run dev
 
 5. Start the  backend:
